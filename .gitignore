@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+
+examples/secret.h
+library.properties

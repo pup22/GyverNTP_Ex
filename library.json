@@ -1,0 +1,15 @@
+{
+  "name": "GyverNTP_Ex",
+  "version": "0.0.1",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/pup22/GyverNTP_Ex"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gyverlibs/GyverNTP": "*"
+  },
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif8266"]
+}
