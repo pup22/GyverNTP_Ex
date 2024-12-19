@@ -17,7 +17,7 @@ uint32_t GyverNTP_Ex::getEpochTime()
 }
 
 String GyverNTP_Ex::getFormattedTime(unsigned long secs){
-  return timeString();
+  return timeToString();
 }
 
 String GyverNTP_Ex::getFormattedDate(unsigned long secs){
